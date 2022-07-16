@@ -20,5 +20,9 @@ done all the css , mostly focused on flex box
 
 onclicking the post , redirected to single post , where we can see the comment of that user 
 
+![Screenshot (177)](https://user-images.githubusercontent.com/87216405/179359984-ed980a5b-5322-4905-9560-2b3588b84f17.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/87216405/179359985-bfa28693-89e7-46eb-a99f-2fd84cc2df1c.png)
+
+
 
 
