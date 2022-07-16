@@ -18,5 +18,7 @@ used method as a props to send data
 
 done all the css , mostly focused on flex box
 
+onclicking the post , redirected to single post , where we can see the comment of that user 
+
 
 
